@@ -9,8 +9,7 @@ class Greeting
     
     public function say($name)
     {
-       echo "Hi, $name! ";
-       echo "There is a new quote for you: \n";
+       echo "Hi, $name! There is a new quote for you: \n";
        $this->sayQoute();
     }
 }
