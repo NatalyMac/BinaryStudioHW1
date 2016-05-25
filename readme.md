@@ -18,11 +18,17 @@
 ------ index.php - скрипт для вывода случайных цитат при обращении на 127.0.0.1:8000 - задание №4
 
 [Wed May 25 12:08:35 2016] PHP Warning:  Module 'curl' already loaded in Unknown on line 0
+
 PHP 5.5.9-1ubuntu4.16 Development Server started at Wed May 25 12:08:36 2016
+
 Listening on http://localhost:8000
+
 Document root is /home/natali/projects/HomeworkBinary
+
 Press Ctrl-C to quit.
+
 [Wed May 25 12:08:48 2016] 127.0.0.1:52949 [200]: /index.php
+
 
 
 ----- trianglenums.php - расчет треуголных чисел - задание №3
